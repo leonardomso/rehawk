@@ -51,7 +51,7 @@
     "@types/raf": "^3.4.0",
     "@types/react": "^17.0.19",
     "@types/react-dom": "^17.0.9",
-    "@xstate/react": "^1.4.0",
+    "@xstate/react": "^1.5.1",
     "babel-jest": "^27.0.6",
     "babel-loader": "^8.2.2",
     "husky": "^7.0.2",
